@@ -1,3 +1,5 @@
+NAME: ABDULRAZAQ ABDULRAHAMAN ADENIRAN
+MATRIC NO: F/ND/25/3210196
 # Inventory Management Basic
 This repository is for Group 5 project - Order Fulfilment and Logistics module.
 # SKU Creation and Assignment
